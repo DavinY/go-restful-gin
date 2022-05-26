@@ -1,0 +1,12 @@
+database:
+  uri: "mongodb://localhost"
+  name: "hcc"
+  username: ""
+  password: ""
+
+port:
+  port: ":27017"
+
+collection:
+  offer: "offers"
+  customer: "clients"
